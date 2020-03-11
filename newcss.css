@@ -44,7 +44,7 @@ and open the template in the editor.
 
 /* Change color on hover/mouse-over */
 .navbar a:hover {
-  background-color: #ddd; /* Grey background color */
+   /* Grey background color */
   color: black; /* Black text color */
 }
 
