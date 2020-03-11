@@ -163,11 +163,6 @@ input[type-text]{
     background-color: #3cbc8d;
         color:white;
 }
-html,
-body {
-	height: 100%;
-}
-
 
 body {
 	margin: 0;
@@ -178,7 +173,7 @@ body {
 
 .container {
 	position: absolute;
-	top: 50%;
+	top: 100%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
@@ -192,7 +187,7 @@ table {
 
 th,
 td {
-	padding: 100px;
+	padding: 20px;
 	background-color: rgba(255,255,255,0.2);
 	color: #fff;
 }
