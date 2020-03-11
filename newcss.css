@@ -44,7 +44,7 @@ and open the template in the editor.
 
 /* Change color on hover/mouse-over */
 .navbar a:hover {
-   /* Grey background color */
+  background-color: #ddd; /* Grey background color */
   color: black; /* Black text color */
 }
 
@@ -163,6 +163,12 @@ input[type-text]{
     background-color: #3cbc8d;
         color:white;
 }
+html,
+body {
+	height: 100%;
+}
+
+
 body {
 	margin: 0;
 	background: linear-gradient(45deg, #49a09d, #5f2c82);
